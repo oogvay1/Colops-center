@@ -1,0 +1,35 @@
+.header-flex {
+    width: 173px;
+    display: flex;
+    flex-direction: column;
+}
+
+.border {
+    height: 2px;
+    width: 139px;
+    border-radius: 20px;
+    background-color: #80C2FF;
+}
+
+.nav-border {
+    height: 342px;
+    width: 2px;
+    top: 0;
+    position: absolute;
+    background-color: #80C2FF;
+}
+
+.header-logo p {
+    text-align: center;
+}
+
+.modal {
+    width: 400px;
+    height: 600px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    background-color: #0194E6;
+}
